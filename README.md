@@ -16,7 +16,7 @@ The core finding this project is built on: in our own peer-reviewed benchmarking
 Upload a conjunctiva (lower eyelid) image, optionally add age, gender, and symptoms, and get: an anemia risk prediction, a calibrated uncertainty score, a plain-language explanation, recommended lab tests, nutrition guidance, and referral urgency — with an explicit warning when the model itself is uncertain.
 
  Full walkthrough: [`docs/Demo_Video.mp4`](docs/Demo_Video.mp4)
- Pitch deck: [`docs/Pitch_Deck.pptx`](docs/Pitch_Deck.pptx)
+ Pitch deck: [`docs/Pitch_Deck.pptx`](docs/HemaVision_Pitch_Deck.pptx)
 
 ---
 
