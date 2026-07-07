@@ -1,5 +1,6 @@
-#  HemaVision — Uncertainty-Aware Anemia Triage Assistant
-  AMD Developer Hackathon: ACT II — Unicorn Track
+#  HemaVision 
+# Uncertainty-Aware Anemia Triage Assistant
+  AMD Developer Hackathon: ACT II - Unicorn Track
 ## Project Objective
 
 HemaVision is a non-invasive anemia screening assistant that goes beyond a single confidence number. By combining a MobileNetV2 image classifier with Monte Carlo Dropout uncertainty quantification and an LLM-based medical reasoning layer, the system communicates not just *what* it predicts, but *how confident* it is , the difference between a demo and a tool that could be responsibly deployed.
