@@ -93,7 +93,7 @@ HemaVision-Anemia-Triage/
 └── docs/
     ├── Demo_Video.mp4            ← Full pitch + live demo walkthrough
     ├── Pitch_Deck.pptx           ← Presentation slides
-    └── limitations.md            ← Honest scope and known limitations
+   
 ```
 
 ---
